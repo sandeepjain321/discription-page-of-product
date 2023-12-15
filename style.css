@@ -1,0 +1,81 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+article {
+  padding: 0px;
+  text-align: center;
+  border: 5px solid black;
+  font-family: sans-serif;
+  line-height: 1.4rem;
+  margin-bottom: 0px;
+}
+.tittle {
+  margin-top: 0px;
+  text-align: center;
+  background-color: skyblue;
+  text-transform: uppercase;
+}
+
+img {
+  height: 300px;
+}
+.more-info {
+  color: #000;
+  margin-bottom: 10px;
+}
+.shipping {
+  color: #afa7a7;
+}
+a:hover {
+  text-decoration: none;
+}
+.detail {
+  list-style-position: inside;
+}
+b {
+  text-transform: uppercase;
+  font-size: 16px;
+}
+.btn {
+  background-color: white;
+  color: #000;
+  width: 100%;
+  text-transform: uppercase;
+  font-size: 20px;
+  cursor: pointer;
+  border-top: 5px solid black;
+}
+.btn:hover {
+  color: white;
+  background-color: black;
+}
+.about {
+  text-transform: uppercase;
+}
+.product {
+  position: relative;
+}
+.color {
+  background-color: #000;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.color-sky {
+  background-color: skyblue;
+}
+.color-pink {
+  background-color: pink;
+}
+.color-yellow {
+  background-color: yellow;
+}
+.color-green {
+  background-color: green;
+}
+.color-brown {
+  background-color: brown;
+}
